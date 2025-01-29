@@ -14,7 +14,7 @@ This repository contains a simple CRUD project built using Java Spring. The aim 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/RGHSJZG_deere
+git clone https://github.com/MichaelDouglas2010/example
 ```
 
 2. Install dependencies with Maven
